@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 🌈 our miro board [Here!](https://miro.com/welcomeonboard/dnVzd0pWQ1lKSmNJWFJLTzQyTDduMGNrVWFVMlh3dzB2QzZPV3ZiT3oxWDJxM3ZBS2QxNm1wNG83QTdnYmpidHwzNDU4NzY0NTU5NDIzMzY5OTUwfDI=?share_link_id=503715730236)
-
 <!--
 
 **Here are some ideas to get you started:**
